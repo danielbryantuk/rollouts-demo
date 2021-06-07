@@ -3,7 +3,7 @@ kind: Service
 metadata:
   labels:
     app: rollout-demo
-  name: rollout-demo
+  name: rollout-demo-daniel
   annotations:
     a8r.io/description: Demo service to try the rollout feature
     a8r.io/owner: Ambassador Labs

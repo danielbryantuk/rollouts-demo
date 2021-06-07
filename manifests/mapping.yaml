@@ -6,4 +6,4 @@ spec:
   resolver: endpoint
   prefix: /rollout-demo
   rewrite: /echo
-  service: rollout-demo:80
+  service: rollout-demo-daniel:80
